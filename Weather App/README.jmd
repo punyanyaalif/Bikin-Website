@@ -1,0 +1,18 @@
+### Source Link 
+
+## Font Awesome Icon
+<script src="https://kit.fontawesome.com/8879b74108.js" crossorigin="anonymous"></script>
+
+## Font
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Space+Mono&family=Tiro+Bangla&display=swap" rel="stylesheet">
+
+## API URL
+https://home.openweathermap.org/api_keys
+
+## API KEY
+fe7db6c98b80f4ce068a50d2c4eee36f
+
+
+°C
